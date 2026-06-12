@@ -1,0 +1,3 @@
+Lombook Plugin
+com.zeekbtye.tokyonight
+com.intellij.plugins.vscodekeymap

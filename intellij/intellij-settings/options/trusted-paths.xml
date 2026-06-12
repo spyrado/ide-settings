@@ -1,0 +1,38 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\nicol" value="true" />
+        <entry key="C:\Users\nicol\IdeaProjects\primeiroprograma" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\2914-java-screenmatch-listas-colecoes" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\2944-java-screenmatch-consumindo-webservice" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\2944-java-screenmatch-consumindo-webservice-main" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\api-via-cep" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\api-voll-med" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-aprendendo-a-lidar-com-data-e-hora" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-encapsulamento" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-estudo\java-colecoes-e-stream" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-estudo\java-colecoes-e-stream\java-colecoes-e-stream" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-estudo\java-encapsulamento" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-estudo\java-heranca-polimorfismo-interfaces" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-poo" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-regex" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\java-strings-entendendo-sobre" value="true" />
+        <entry key="C:\Users\nicol\Nicolas\GIT\projetos-java\primeiroprograma" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end\api-gateway-java" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end\infra-local" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end\ms-java-inventory-service" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end\ms-java-notification-service" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end\ms-java-order-service" value="true" />
+        <entry key="\\wsl.localhost\Debian\home\nick\nicolas\git\projeto-tiktok-shop\ms-java-auth" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="\\wsl.localhost\Debian\home\nick\nicolas\git\estudos\e-commerce\back-end" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<keymap version="1" name="VSCode Custom Map" parent="VSCode">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ChooseRunConfiguration" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Compare.SameVersion" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="HideSideWindows" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="RecentProjectListGroup" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="RerunFailedTests" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="Terminal.CloseSession" />
+  <action id="Terminal.SearchInCommandHistory" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageView.Rerun">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+</keymap>
